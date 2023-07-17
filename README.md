@@ -46,6 +46,13 @@ Other
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)  
 
+### 🔥 &nbsp; My Stats :
+[![codewars](https://www.codewars.com/users/Lana_Warrior/badges/large)](https://www.codewars.com/users/Lana_Warrior)   
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Lana-Dzuceva&theme=gruvbox)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lana-Dzuceva&theme=gruvbox)  
+
+
 <!--
 **Lana-Dzuceva/Lana-Dzuceva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
