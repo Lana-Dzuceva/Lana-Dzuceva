@@ -3,6 +3,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student</h3>
 
+Учусь на 3 курсе в СОГУ, увлекаюсь альпинизмом, программирую, иногда участвую в различных олимпиадах. Подробнее можете почитать в моем резюме  
+[Моё резюме](https://github.com/Lana-Dzuceva/Lana-Dzuceva/files/15051163/default.pdf)
 
 
 ### Languages :
@@ -49,6 +51,9 @@ Other
 ### 🔥 &nbsp; My Stats :
 [![codewars](https://www.codewars.com/users/Lana_Warrior/badges/large)](https://www.codewars.com/users/Lana_Warrior)   
 
+
+  
+Немного аналитики моей активности, сейчас коммитов стало совсем мало, так как для работы использую гитлаб  
 [![GitHub Streak](https://streak-stats.demolab.com?user=Lana-Dzuceva&theme=gruvbox)](https://git.io/streak-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lana-Dzuceva&theme=gruvbox)  
 
