@@ -4,8 +4,8 @@
 <h3 align="center">Computer science student</h3>
 
 Учусь на 3 курсе в СОГУ, увлекаюсь альпинизмом, программирую, иногда участвую в различных олимпиадах. Подробнее можете почитать в моем резюме  
-[Моё резюме](https://github.com/Lana-Dzuceva/Lana-Dzuceva/files/15051163/default.pdf)
-
+[Моё резюме](https://github.com/Lana-Dzuceva/Lana-Dzuceva/files/15051163/default.pdf)  
+[Мой профиль на codeforces](https://codeforces.com/profile/That_Woman)
 
 ### Languages :
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -53,12 +53,13 @@ Other
 
 
   
-Немного аналитики моей активности, сейчас коммитов стало совсем мало, так как для работы использую гитлаб  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Lana-Dzuceva&theme=gruvbox)](https://git.io/streak-stats)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lana-Dzuceva&theme=gruvbox)  
-
-
 <!--
+![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=That_Woman)  
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=That_Woman)](https://codeforces.com/profile/That_Woman)
+Немного аналитики моей активности, сейчас коммитов стало совсем мало, так как для работы использую гитлаб  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Lana-Dzuceva&theme=gruvbox)](https://git.io/streak-stats)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lana-Dzuceva&theme=gruvbox)    
+
 **Lana-Dzuceva/Lana-Dzuceva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
