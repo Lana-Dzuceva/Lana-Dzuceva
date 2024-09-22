@@ -3,7 +3,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student</h3>
 
-Учусь на 3 курсе в СОГУ, увлекаюсь альпинизмом, программирую, иногда участвую в различных олимпиадах. Подробнее можете почитать в моем резюме  
+Учусь на 4 курсе в СОГУ, увлекаюсь альпинизмом, программирую, иногда участвую в различных олимпиадах. Подробнее можете почитать в моем резюме  
 [Моё резюме](https://github.com/Lana-Dzuceva/Lana-Dzuceva/files/15051163/default.pdf)  
 [Мой профиль на codeforces](https://codeforces.com/profile/That_Woman)
 
