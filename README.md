@@ -12,8 +12,6 @@
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 -->
-![Static Badge](https://img.shields.io/badge/DuckDB)
-![Static Badge](https://img.shields.io/badge/DuckDB?logo=duckdb&color=yellow)
 
 <h1 align="center">
   Lana
