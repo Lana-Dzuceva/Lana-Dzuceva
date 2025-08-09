@@ -1,4 +1,4 @@
-
+<!--
 <h1 align="center">Hi there, I'm Lana
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student</h3>
@@ -6,6 +6,56 @@
 Учусь на 4 курсе в СОГУ, увлекаюсь альпинизмом, программирую, иногда участвую в различных олимпиадах. Подробнее можете почитать в моем резюме  
 [Моё резюме](https://github.com/Lana-Dzuceva/Lana-Dzuceva/files/15051163/default.pdf)  
 [Мой профиль на codeforces](https://codeforces.com/profile/That_Woman)
+
+<h1 align="center">
+  🚀 Turning ideas into code, one commit at a time
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+</h1>
+-->
+![Static Badge](https://img.shields.io/badge/DuckDB)
+![Static Badge](https://img.shields.io/badge/DuckDB?logo=duckdb&color=yellow)
+
+<h1 align="center">
+  Lana
+</h1>
+
+<h3 align="center">💻 Mobile Developer | 🧠 Computer Vision Enthusiast | 🏔 Climber</h3>
+
+<p align="center">
+  I build mobile apps and explore computer vision technologies.<br>
+  From climbing mountains to solving challenging algorithms — I love pushing limits.
+</p>
+
+---
+
+### 👩‍💻 About Me
+- 🎓 Graduated in Computer Science from **North Ossetian State University**  
+- 💼 Currently working as a **Mobile Developer (Flutter)** at **M-Softer**  
+- 🤖 Developing a large-scale **object detection & tracking project** using YOLO + ByteTrack  
+- 🏔 Mountaineering enthusiast — persistence learned on the rocks helps everywhere  
+- 📄 More details in my [Resume (PDF)](https://github.com/Lana-Dzuceva/Lana-Dzuceva/files/15051163/default.pdf)  
+- 🏆 My [Codeforces profile](https://codeforces.com/profile/That_Woman)  
+
+---
+
+<details>
+<summary>🇷🇺 Версия на русском</summary>
+
+
+
+
+### 👩‍💻 Обо мне
+- 🎓 Выпускница факультета **Прикладной информатики** СОГУ  
+- 💼 Работаю мобильным разработчиком (**Flutter**) в компании **M-Softer**  
+- 🤖 Делаю крупный проект по **распознаванию и трекингу объектов** (YOLO + ByteTrack)  
+- 🏔 Увлекаюсь альпинизмом — упорство и концентрация с гор помогают везде  
+- 📄 Подробнее — в моём [резюме (PDF)](https://github.com/Lana-Dzuceva/Lana-Dzuceva/files/15051163/default.pdf)  
+- 🏆 Мой [профиль на Codeforces](https://codeforces.com/profile/That_Woman)  
+
+</details>
+
+
+
 
 ### Languages :
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -22,6 +72,7 @@
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)  
 
 ### Databases :
+![Static Badge](https://img.shields.io/badge/DuckDB-black?style=for-the-badge&logo=duckdb)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 <!--
